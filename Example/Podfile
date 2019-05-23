@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CLPTools_Example' do
+  pod 'CLPTools', :path => '../'
+
+  target 'CLPTools_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
