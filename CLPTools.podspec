@@ -26,10 +26,8 @@ TODO: Add long description of the pod here.
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'clapnwhy' => '421822615@qq.com' }
 
-   # s.source           = { :git => '/Users/clapn/CLPoschina/CLPTools', :tag => s.version.to_s }
-  # s.source           = { :git => '/Users/caolangpeng/gitOsChina/CLPTools', :tag => s.version.to_s }
-  s.source           = { :git => '/Users/caolangpeng/Documents/OsChina/CLPTools', :tag => s.version.to_s }
-  # s.source           = { :git => 'https://github.com/clapnwhy/CLPTools.git', :tag => s.version.to_s }
+
+  s.source           = { :git => 'https://github.com/clapnwhy/CLPTools.git', :tag => s.version.to_s }
 
 
 
